@@ -1,6 +1,8 @@
 {
-  "name": "Barksalot",
-  "species": "Dog",
-  "age": 5,
-  "photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+  "name": "Alice",
+  "age": 25,
+  "city": "London",
+  "country": "UK",
+  "email": "alice@example.com",
+  "phone": "+123456789"
 }
