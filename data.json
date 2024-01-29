@@ -1,7 +1,6 @@
 {
-  "key0": "1254",
-  "key1": "1456",
-  "key2": "9874",
-  "key3": "6541",
-  "key4": "9876"
+  "name": "Barksalot",
+  "species": "Dog",
+  "age": 5,
+  "photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
 }
